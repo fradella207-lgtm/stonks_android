@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">stonks</string>
+    <string name="history_tab">Movimenti</string>
+    <string name="reports_tab">Report</string>
+    <string name="add_transaction">Nuova Transazione</string>
+    <string name="edit_transaction">Modifica Transazione</string>
+    <string name="income">Entrata</string>
+    <string name="expense">Spesa</string>
+    <string name="net_balance">Bilancio Netto</string>
+    <string name="monthly_budget">Budget Mensile</string>
+    <string name="total_income">Entrate</string>
+    <string name="total_expense">Uscite</string>
+    <string name="category_food">Cibo &amp; Spesa</string>
+    <string name="category_transport">Trasporti</string>
+    <string name="category_housing">Casa &amp; Utenze</string>
+    <string name="category_entertainment">Svago &amp; Hobby</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_health">Salute</string>
+    <string name="category_salary">Stipendio</string>
+    <string name="category_freelance">Freelance</string>
+    <string name="category_investments">Investimenti</string>
+    <string name="category_other">Altro</string>
+    <string name="stonks_quote">Stonks! Ottimo risparmio!</string>
+    <string name="not_stonks_quote">Not Stonks! Attento alle spese!</string>
+</resources>
